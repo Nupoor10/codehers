@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# CodeHers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+As most of us are aware, women in tech are an under represented group. Even as recent as 2023, only 26.7% of all tech related job positions are held by women. We wanted to address this issue by creating a platform where women can have access to to world class events, specially curated courses and incredible industry opportunities to help them boost their career. This platform caters to all women, whether they are just starting out, resuming their career after a long break or transitioning into a career of technology. We hope our platform will serve as a beacon of hope and motivation where we create a community of women that help each other in their journey to success.
 
-## Available Scripts
+## 💻 Technologies Used
 
-In the project directory, you can run:
+📍 ReactJS
 
-### `npm start`
+📍 NodeJS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+📍 MongoDB
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+📍 ExpressJS
 
-### `npm test`
+📍 Postman(Testing)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻Working
 
-### `npm run build`
+- User login and registration
+- View courses as per popularity, category
+- Enroll in available courses to get access to course video and resources
+- View all enrolled courses
+- Events Page to view upcoming events
+- Resources Page
+- Opportunities Page for career opportunities
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## GUI
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📌Home Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Home Page](https://i.ibb.co/Q6Ryk5s/2023-04-12-3.png)
 
-### `npm run eject`
+📌 Courses Page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Courses Page](https://i.ibb.co/dfPyvmF/2023-04-12-5.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Courses Page](https://i.ibb.co/g3ZGqz8/2023-04-12-6.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+📌Enrolled Courses Page
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![My Courses Page](https://i.ibb.co/b39KskP/2023-04-12-11.png)
 
-## Learn More
+![My Courses Page](https://i.ibb.co/fqy0RZK/2023-04-12-12.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+📌 Events Page
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Events Page](https://i.ibb.co/ctxpW2Q/2023-04-12-7.png)
 
-### Code Splitting
+📌 Opportunities Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Opportunities Page](https://i.ibb.co/S68Cxtr/2023-04-12-8.png)
 
-### Analyzing the Bundle Size
+📌 Resources Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Resources Page](https://i.ibb.co/QnGMWw1/2023-04-12-9.png)
